@@ -9,7 +9,10 @@ This repository features the final submission for the **AI&ML Internship** progr
 
 ```bash
 
-Itihas-Vachak/
+Infosys-Project-Submission/
+├── agile_docs/
+│   ├── Agile_Sprint.xlsx
+│   ├── Unit_Test_Plan.xlsx
 ├── first_aid_rag/
 │   ├── data/
 │   │   ├── FA-manual.pdf 
@@ -63,4 +66,4 @@ Open the ```pandas_ai_agent.ipynb``` notebook on Google Colab or any other inter
 
 ### **For SQL Agent,**
 
-Open the ```sql_ai_agent.ipynb`` notebook on Google Colab or any other interactive notebook platform and run all the cells.
+Open the ```sql_ai_agent.ipynb``` notebook on Google Colab or any other interactive notebook platform and run all the cells.
