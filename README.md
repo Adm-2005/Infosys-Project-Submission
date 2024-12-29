@@ -1,15 +1,16 @@
 # 💫 Infosys Project Submission
 
-This repository features the final submission for the **AI&ML Internship** program of Infosys Springboard. It includes two projects: -
-- **First-aid RAG:** A RAG agent that helps to perform immediate first-aid.
+This repository features the final submission for the **AI&ML Internship** program of Infosys Springboard. It includes three subparts: -
+- **First-Aid RAG:** A RAG agent that helps to perform immediate first-aid.
 - **Pandas Agent:** An AI agent that is used to automated data analysis workflow.
+- **SQL Agent:** An AI agent that is used to automate database operations.
 
 ## 📁 Project Structure
 
 ```bash
 
 Itihas-Vachak/
-├── first-aid-rag/
+├── first_aid_rag/
 │   ├── data/
 │   │   ├── FA-manual.pdf 
 │   ├── src/
@@ -18,8 +19,10 @@ Itihas-Vachak/
 │   │   ├── rag_agent.py
 │   ├── app.py
 │   ├── requirements.txt
-├── pandas-agent/
+├── pandas_agent/
 │   ├── pandas_ai_agent.ipynb
+├── sql_agent/
+│   ├── sql_ai_agent.ipynb
 ├── .gitignore
 ├── LICENSE
 ├── README.md
@@ -57,3 +60,7 @@ Visit http://127.0.0.1:7860/ and use the application.
 ### **For Pandas Agent,**
 
 Open the ```pandas_ai_agent.ipynb``` notebook on Google Colab or any other interactive notebook platform and run all the cells.
+
+### **For SQL Agent,**
+
+Open the ```sql_ai_agent.ipynb`` notebook on Google Colab or any other interactive notebook platform and run all the cells.
